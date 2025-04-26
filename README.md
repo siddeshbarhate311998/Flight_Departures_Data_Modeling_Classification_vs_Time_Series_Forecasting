@@ -3,8 +3,8 @@
 ## 🛫 Project Overview
 This project explores two different approaches to analyze and predict flight departures data:
 
-- **TABA 1:** Classification Model – predicting departure categories using machine learning classifiers.
-- **TABA 2:** Forecasting Model – predicting future departure values using time series forecasting techniques.
+- **Departure Classification Model:**  – predicting departure categories using machine learning classifiers.
+- **Departure Forecasting Model:**  – predicting future departure values using time series forecasting techniques.
 
 The goal is to evaluate both strategies and understand which modeling approach provides better insights based on the problem type.
 
